@@ -1,5 +1,3 @@
----
-
 # MicroFrontendExample
 
 ## Overview
@@ -60,5 +58,3 @@ Open your web browser and navigate to [http://localhost:8080](http://localhost:8
 ## Additional Information
 
 For more details on how the integration between the React host application and the Vue microfrontend works, refer to the code and documentation within each directory.
-
----

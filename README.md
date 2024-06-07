@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates how to integrate a Vue microfrontend into a React host application using single-spa.
+This project demonstrates how to integrate a Vue microfrontend into a React host application using Webpack 5.
 
 The project structure includes two directories:
 - **host**: Contains the React host application.
